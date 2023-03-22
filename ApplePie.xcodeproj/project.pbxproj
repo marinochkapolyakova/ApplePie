@@ -13,6 +13,7 @@
 		E87699B129C35B1E00C4B8EB /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = E87699AF29C35B1E00C4B8EB /* Main.storyboard */; };
 		E87699B329C35B1E00C4B8EB /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = E87699B229C35B1E00C4B8EB /* Assets.xcassets */; };
 		E87699B629C35B1E00C4B8EB /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = E87699B429C35B1E00C4B8EB /* LaunchScreen.storyboard */; };
+		E87699BE29C3818E00C4B8EB /* Game.swift in Sources */ = {isa = PBXBuildFile; fileRef = E87699BD29C3818E00C4B8EB /* Game.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		E87699B229C35B1E00C4B8EB /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		E87699B529C35B1E00C4B8EB /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		E87699B729C35B1E00C4B8EB /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		E87699BD29C3818E00C4B8EB /* Game.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Game.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +61,7 @@
 				E87699A929C35B1E00C4B8EB /* AppDelegate.swift */,
 				E87699AB29C35B1E00C4B8EB /* SceneDelegate.swift */,
 				E87699AD29C35B1E00C4B8EB /* ViewController.swift */,
+				E87699BD29C3818E00C4B8EB /* Game.swift */,
 				E87699AF29C35B1E00C4B8EB /* Main.storyboard */,
 				E87699B229C35B1E00C4B8EB /* Assets.xcassets */,
 				E87699B429C35B1E00C4B8EB /* LaunchScreen.storyboard */,
@@ -141,6 +144,7 @@
 				E87699AE29C35B1E00C4B8EB /* ViewController.swift in Sources */,
 				E87699AA29C35B1E00C4B8EB /* AppDelegate.swift in Sources */,
 				E87699AC29C35B1E00C4B8EB /* SceneDelegate.swift in Sources */,
+				E87699BE29C3818E00C4B8EB /* Game.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
